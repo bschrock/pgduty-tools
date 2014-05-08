@@ -20,3 +20,6 @@ TODO:
 - Maybe re-use TCP session and do cookie handling 
 - Curses?
 - Simple tmux status line output: T: # A: #. For the (T)riggered count and (A)ckknowledged count respectivly.
+
+Reference:
+ PagerDuty REST API reference: http://developer.pagerduty.com/documentation/rest
